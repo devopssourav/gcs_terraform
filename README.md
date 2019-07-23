@@ -1,6 +1,6 @@
 # gcs_terraform
 
-Google cloud storage creation using terraform. example given for 4 type of storage options availavle in google cloud, i.e
+Google cloud storage creation using terraform,example given for 4 type of storage class options availavle in google cloud, i.e
 
   i) Multi-Regional 
   
