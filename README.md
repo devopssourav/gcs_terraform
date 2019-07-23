@@ -15,6 +15,7 @@ iii) Nearline
  https://cloud.google.com/storage/docs/storage-classes
  
  Steps for running terraform to create the buckets
+ 
  1.Initialize Terraform.
    terraform init
   
