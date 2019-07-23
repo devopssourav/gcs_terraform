@@ -3,9 +3,13 @@
 Google cloud storage creation using terraform. example given for 4 type of storage options availavle in google cloud, i.e
 
   i) Multi-Regional 
+  
  ii) Regional
+ 
 iii) Nearline
+
  iv) Coldline 
+ 
  
  For detail explanation of different type of storage class , please follow the google link 
  https://cloud.google.com/storage/docs/storage-classes
